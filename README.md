@@ -1,5 +1,9 @@
 # Goldman Sachs & JPMorgan Chase Stock Price Analysis
 
+# Goldman Sachs Stock Price Analysis
+
+![Dashboard Demo](screen.gif)
+
 ## Author: Dawit Asmerawork  
 **Year:** 2025  
 **GitHub:** [Dawit0101](https://github.com/Dawit0101/)  
